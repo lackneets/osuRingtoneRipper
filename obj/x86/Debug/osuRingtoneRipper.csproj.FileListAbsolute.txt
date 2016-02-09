@@ -1,0 +1,14 @@
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\bin\Debug\osuRingtoneRipper.exe
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\bin\Debug\osuRingtoneRipper.pdb
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\bin\Debug\NAudio.dll
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\bin\Debug\NAudio.xml
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\obj\x86\Debug\osuRingtoneRipper.Form1.resources
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\obj\x86\Debug\osuRingtoneRipper.Properties.Resources.resources
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\obj\x86\Debug\osuRingtoneRipper.exe
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\obj\x86\Debug\osuRingtoneRipper.pdb
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\bin\Debug\Bass.Net.dll
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\bin\Debug\irrKlang.NET4.dll
+F:\我的文件\Visual Studio 2010\Projects\osuRingtoneRipper\osuRingtoneRipper\osuRingtoneRipper\bin\Debug\Bass.Net.xml
